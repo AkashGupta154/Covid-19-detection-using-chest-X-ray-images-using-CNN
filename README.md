@@ -21,8 +21,7 @@
 
 ![download](https://github.com/AkashGupta154/Covid-19-detection-using-chest-X-ray-images-using-CNN/assets/100993371/212b5aaa-5fe1-4375-846d-8a27b90d3048)
 
-![download](https://github.com/AkashGupta154/Covid-19-detection-using-chest-X-ray-
-images-using-CNN/assets/100993371/457e6d41-abbb-4ed3-9676-b357eae25e8d)
+![download](https://github.com/AkashGupta154/Covid-19-detection-using-chest-X-ray-images-using-CNN/assets/100993371/457e6d41-abbb-4ed3-9676-b357eae25e8d)
 
 ![download](https://github.com/AkashGupta154/Covid-19-detection-using-chest-X-ray-images-using-CNN/assets/100993371/e6033b0a-9863-43c0-a669-98f3b6c947d2)
 
