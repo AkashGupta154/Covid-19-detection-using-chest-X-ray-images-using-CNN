@@ -3,7 +3,7 @@
 - Optimized VGG16 for maximum accuracy, outperforming other models.      
 - Enhanced performance through preprocessing, data augmentation, and hyperparameter optimization. Conducted thorough model evaluation, achieving impressive accuracy rates.    
 - Provided technical guidance and fostered team collaboration to drive productivity.
-- Technologies uses: Python, Numpy, Pandas, Matplotlib, Scikit-learn, CNN, jpg images, Jupyter Notebook...
+- Technologies uses: Python, Numpy, Pandas, Matplotlib, Scikit-learn, sk-learn, cv2, os, keras,  CNN, jpg images, Jupyter Notebook...
 
 
 ![download](https://github.com/AkashGupta154/Covid-19-detection-using-chest-X-ray-images-using-CNN/assets/100993371/60ab0be3-96b8-4636-a799-663cba4b6462)
